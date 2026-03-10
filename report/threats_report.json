@@ -1,0 +1,319 @@
+{
+    "ip_analysis": [
+        {
+            "ip": "8.42.77.171",
+            "requests": 7
+        },
+        {
+            "ip": "80.211.246.121",
+            "requests": 2
+        },
+        {
+            "ip": "37.49.231.178",
+            "requests": 2
+        },
+        {
+            "ip": "138.68.3.71",
+            "requests": 1
+        },
+        {
+            "ip": "184.105.139.67",
+            "requests": 1
+        },
+        {
+            "ip": "92.63.194.33",
+            "requests": 2
+        },
+        {
+            "ip": "185.244.25.167",
+            "requests": 1
+        },
+        {
+            "ip": "1.169.38.217",
+            "requests": 1
+        },
+        {
+            "ip": "5.101.40.81",
+            "requests": 1
+        },
+        {
+            "ip": "5.141.67.237",
+            "requests": 1
+        },
+        {
+            "ip": "5.188.206.22",
+            "requests": 1
+        },
+        {
+            "ip": "31.163.158.140",
+            "requests": 1
+        },
+        {
+            "ip": "31.192.108.68",
+            "requests": 1
+        },
+        {
+            "ip": "37.49.231.125",
+            "requests": 1
+        },
+        {
+            "ip": "43.227.231.129",
+            "requests": 1
+        },
+        {
+            "ip": "45.62.211.169",
+            "requests": 1
+        },
+        {
+            "ip": "46.100.43.82",
+            "requests": 1
+        },
+        {
+            "ip": "58.218.213.6",
+            "requests": 1
+        },
+        {
+            "ip": "58.48.32.199",
+            "requests": 1
+        },
+        {
+            "ip": "59.47.71.13",
+            "requests": 1
+        },
+        {
+            "ip": "61.176.222.167",
+            "requests": 1
+        },
+        {
+            "ip": "61.219.11.151",
+            "requests": 1
+        },
+        {
+            "ip": "66.240.236.119",
+            "requests": 1
+        },
+        {
+            "ip": "71.6.232.4",
+            "requests": 1
+        },
+        {
+            "ip": "71.6.199.23",
+            "requests": 1
+        },
+        {
+            "ip": "78.128.112.98",
+            "requests": 1
+        },
+        {
+            "ip": "80.211.172.233",
+            "requests": 1
+        },
+        {
+            "ip": "80.82.77.33",
+            "requests": 1
+        },
+        {
+            "ip": "82.202.209.155",
+            "requests": 1
+        },
+        {
+            "ip": "88.202.190.148",
+            "requests": 1
+        },
+        {
+            "ip": "88.214.26.54",
+            "requests": 1
+        },
+        {
+            "ip": "89.248.168.51",
+            "requests": 1
+        },
+        {
+            "ip": "91.245.36.26",
+            "requests": 1
+        },
+        {
+            "ip": "92.53.76.213",
+            "requests": 1
+        },
+        {
+            "ip": "185.244.25.145",
+            "requests": 1
+        }
+    ],
+    "attack_types": [
+        {
+            "attack_type": "ET SCAN Potential SSH Scan",
+            "count": 1
+        },
+        {
+            "attack_type": "ET SCAN Potential VNC Scan 5800-5820",
+            "count": 1
+        },
+        {
+            "attack_type": "ET SCAN Potential VNC Scan 5900-5920",
+            "count": 1
+        },
+        {
+            "attack_type": "ET SCAN Sipvicious Scan",
+            "count": 1
+        },
+        {
+            "attack_type": "ET SCAN Suspicious inbound to MSSQL port 1433",
+            "count": 1
+        },
+        {
+            "attack_type": "ET SCAN Suspicious inbound to Oracle SQL port 1521",
+            "count": 1
+        },
+        {
+            "attack_type": "ET SCAN Suspicious inbound to mySQL port 3306",
+            "count": 1
+        },
+        {
+            "attack_type": "ET SCAN Suspicious inbound to PostgreSQL port 5432",
+            "count": 1
+        },
+        {
+            "attack_type": "ET SCAN Sipvicious User-Agent Detected (friendly-scanner)",
+            "count": 1
+        },
+        {
+            "attack_type": "ET POLICY GNU/Linux APT User-Agent Outbound likely related to package management",
+            "count": 1
+        },
+        {
+            "attack_type": "GPL SNMP public access udp",
+            "count": 1
+        },
+        {
+            "attack_type": "ET DROP Dshield Block Listed Source group 1",
+            "count": 2
+        },
+        {
+            "attack_type": "ET CINS Active Threat Intelligence Poor Reputation IP TCP group 1",
+            "count": 1
+        },
+        {
+            "attack_type": "ET CINS Active Threat Intelligence Poor Reputation IP TCP group 3",
+            "count": 1
+        },
+        {
+            "attack_type": "ET CINS Active Threat Intelligence Poor Reputation IP TCP group 4",
+            "count": 1
+        },
+        {
+            "attack_type": "ET CINS Active Threat Intelligence Poor Reputation IP TCP group 5",
+            "count": 1
+        },
+        {
+            "attack_type": "ET CINS Active Threat Intelligence Poor Reputation IP TCP group 18",
+            "count": 1
+        },
+        {
+            "attack_type": "ET CINS Active Threat Intelligence Poor Reputation IP TCP group 19",
+            "count": 1
+        },
+        {
+            "attack_type": "ET CINS Active Threat Intelligence Poor Reputation IP TCP group 24",
+            "count": 1
+        },
+        {
+            "attack_type": "ET CINS Active Threat Intelligence Poor Reputation IP UDP group 24",
+            "count": 1
+        },
+        {
+            "attack_type": "ET CINS Active Threat Intelligence Poor Reputation IP TCP group 32",
+            "count": 1
+        },
+        {
+            "attack_type": "ET CINS Active Threat Intelligence Poor Reputation IP TCP group 35",
+            "count": 1
+        },
+        {
+            "attack_type": "ET CINS Active Threat Intelligence Poor Reputation IP TCP group 36",
+            "count": 1
+        },
+        {
+            "attack_type": "ET CINS Active Threat Intelligence Poor Reputation IP TCP group 44",
+            "count": 1
+        },
+        {
+            "attack_type": "ET CINS Active Threat Intelligence Poor Reputation IP TCP group 45",
+            "count": 1
+        },
+        {
+            "attack_type": "ET CINS Active Threat Intelligence Poor Reputation IP TCP group 49",
+            "count": 1
+        },
+        {
+            "attack_type": "ET CINS Active Threat Intelligence Poor Reputation IP TCP group 56",
+            "count": 1
+        },
+        {
+            "attack_type": "ET CINS Active Threat Intelligence Poor Reputation IP TCP group 57",
+            "count": 1
+        },
+        {
+            "attack_type": "ET CINS Active Threat Intelligence Poor Reputation IP TCP group 62",
+            "count": 1
+        },
+        {
+            "attack_type": "ET CINS Active Threat Intelligence Poor Reputation IP TCP group 67",
+            "count": 1
+        },
+        {
+            "attack_type": "ET CINS Active Threat Intelligence Poor Reputation IP UDP group 67",
+            "count": 1
+        },
+        {
+            "attack_type": "ET CINS Active Threat Intelligence Poor Reputation IP TCP group 73",
+            "count": 1
+        },
+        {
+            "attack_type": "ET CINS Active Threat Intelligence Poor Reputation IP TCP group 76",
+            "count": 1
+        },
+        {
+            "attack_type": "ET CINS Active Threat Intelligence Poor Reputation IP UDP group 76",
+            "count": 1
+        },
+        {
+            "attack_type": "ET CINS Active Threat Intelligence Poor Reputation IP TCP group 77",
+            "count": 1
+        },
+        {
+            "attack_type": "ET CINS Active Threat Intelligence Poor Reputation IP TCP group 79",
+            "count": 1
+        },
+        {
+            "attack_type": "ET CINS Active Threat Intelligence Poor Reputation IP TCP group 86",
+            "count": 1
+        },
+        {
+            "attack_type": "ET CINS Active Threat Intelligence Poor Reputation IP TCP group 87",
+            "count": 1
+        },
+        {
+            "attack_type": "ET CINS Active Threat Intelligence Poor Reputation IP UDP group 89",
+            "count": 1
+        },
+        {
+            "attack_type": "ET CINS Active Threat Intelligence Poor Reputation IP TCP group 92",
+            "count": 1
+        },
+        {
+            "attack_type": "ET CINS Active Threat Intelligence Poor Reputation IP TCP group 93",
+            "count": 1
+        },
+        {
+            "attack_type": "ET CINS Active Threat Intelligence Poor Reputation IP TCP group 94",
+            "count": 1
+        },
+        {
+            "attack_type": "ET COMPROMISED Known Compromised or Hostile Host Traffic TCP group 46",
+            "count": 1
+        }
+    ],
+    "vulnerabilities": []
+}

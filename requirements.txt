@@ -1,0 +1,5 @@
+vulners
+requests
+pandas
+matplotlib
+seaborn

@@ -1,0 +1,44 @@
+attack_type,count
+ET SCAN Potential SSH Scan,1
+ET SCAN Potential VNC Scan 5800-5820,1
+ET SCAN Potential VNC Scan 5900-5920,1
+ET SCAN Sipvicious Scan,1
+ET SCAN Suspicious inbound to MSSQL port 1433,1
+ET SCAN Suspicious inbound to Oracle SQL port 1521,1
+ET SCAN Suspicious inbound to mySQL port 3306,1
+ET SCAN Suspicious inbound to PostgreSQL port 5432,1
+ET SCAN Sipvicious User-Agent Detected (friendly-scanner),1
+ET POLICY GNU/Linux APT User-Agent Outbound likely related to package management,1
+GPL SNMP public access udp,1
+ET DROP Dshield Block Listed Source group 1,2
+ET CINS Active Threat Intelligence Poor Reputation IP TCP group 1,1
+ET CINS Active Threat Intelligence Poor Reputation IP TCP group 3,1
+ET CINS Active Threat Intelligence Poor Reputation IP TCP group 4,1
+ET CINS Active Threat Intelligence Poor Reputation IP TCP group 5,1
+ET CINS Active Threat Intelligence Poor Reputation IP TCP group 18,1
+ET CINS Active Threat Intelligence Poor Reputation IP TCP group 19,1
+ET CINS Active Threat Intelligence Poor Reputation IP TCP group 24,1
+ET CINS Active Threat Intelligence Poor Reputation IP UDP group 24,1
+ET CINS Active Threat Intelligence Poor Reputation IP TCP group 32,1
+ET CINS Active Threat Intelligence Poor Reputation IP TCP group 35,1
+ET CINS Active Threat Intelligence Poor Reputation IP TCP group 36,1
+ET CINS Active Threat Intelligence Poor Reputation IP TCP group 44,1
+ET CINS Active Threat Intelligence Poor Reputation IP TCP group 45,1
+ET CINS Active Threat Intelligence Poor Reputation IP TCP group 49,1
+ET CINS Active Threat Intelligence Poor Reputation IP TCP group 56,1
+ET CINS Active Threat Intelligence Poor Reputation IP TCP group 57,1
+ET CINS Active Threat Intelligence Poor Reputation IP TCP group 62,1
+ET CINS Active Threat Intelligence Poor Reputation IP TCP group 67,1
+ET CINS Active Threat Intelligence Poor Reputation IP UDP group 67,1
+ET CINS Active Threat Intelligence Poor Reputation IP TCP group 73,1
+ET CINS Active Threat Intelligence Poor Reputation IP TCP group 76,1
+ET CINS Active Threat Intelligence Poor Reputation IP UDP group 76,1
+ET CINS Active Threat Intelligence Poor Reputation IP TCP group 77,1
+ET CINS Active Threat Intelligence Poor Reputation IP TCP group 79,1
+ET CINS Active Threat Intelligence Poor Reputation IP TCP group 86,1
+ET CINS Active Threat Intelligence Poor Reputation IP TCP group 87,1
+ET CINS Active Threat Intelligence Poor Reputation IP UDP group 89,1
+ET CINS Active Threat Intelligence Poor Reputation IP TCP group 92,1
+ET CINS Active Threat Intelligence Poor Reputation IP TCP group 93,1
+ET CINS Active Threat Intelligence Poor Reputation IP TCP group 94,1
+ET COMPROMISED Known Compromised or Hostile Host Traffic TCP group 46,1
